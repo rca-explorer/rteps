@@ -7,3 +7,4 @@ _RTEPs_, or _RCAX Token Enhancement Proposals_, are used to suggest and discuss 
 |Number|Type|Title|Owner|Status|
 |:-:|:-|:-|:-|:-|
 [2](/RTEP-2.md)|Fork|Introduce RCAX Token V2|Warm Beer|Final|
+[3](/RTEP-3.md)|Upgrade|Transition from Avatar Burning to Reselling|Mick van Dijke|Draft|
